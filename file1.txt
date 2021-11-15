@@ -7,3 +7,4 @@ coment test
 567
 >>>>>>> 9be94557303355dbfc6206ba27fa02e3ec1e88f2
 add line
+new branch line
